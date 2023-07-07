@@ -1,0 +1,12 @@
+itemName,itemCode,unitPrice,totalAmount,orderName,itemQuantity
+Item A1,001,10.00,20.00,Order1,2
+Item A2,002,15.00,45.00,Order1,3
+Item A3,003,8.50,8.50,Order1,1
+Item A4,004,12.75,51.00,Order1,4
+Item B1,006,5.00,15.00,Order2,3
+Item B2,007,5.00,15.00,Order2,3
+Item B3,008,7.50,15.00,Order2,2
+Item B4,009,9.99,9.99,Order2,1
+Item B5,010,14.50,72.50,Order2,5
+Item C1,011,10.50,42.00,Order3,4
+Item C2,012,8.50,34.00,Order3,4
